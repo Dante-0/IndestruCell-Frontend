@@ -1,0 +1,346 @@
+[
+  {
+    "id": "ulefone-armor-26-ultra",
+    "name": "Ulefone Armor 26 Ultra",
+    "category": "Powerhouse Multimídia",
+    "description": "O smartphone robusto mais potente com recursos únicos",
+    "price": 5370,
+    "old_price": 6200,
+    "discount": 13,
+    "rating": 4.8,
+    "brand": "Ulefone",
+    "features": [
+      "Alto-falante 121dB + Walkie-Talkie"
+    ],
+    "image": "/images/ulefone-armor-26-ultra.webp"
+  },
+  {
+    "id": "blackview-bl9000-pro",
+    "name": "Blackview BL9000 Pro",
+    "category": "Câmera Térmica Profissional",
+    "description": "A melhor câmera térmica disponível em um smartphone",
+    "price": 5530,
+    "old_price": 6400,
+    "discount": 14,
+    "rating": 4.8,
+    "brand": "Blackview",
+    "features": [
+      "Câmera Térmica FLIR® de alta resolução"
+    ],
+    "image": "/images/blackview-bl9000-pro.webp"
+  },
+  {
+    "id": "doogee-v31-gt",
+    "name": "Doogee V31 GT",
+    "category": "Equilíbrio com Câmera Térmica",
+    "description": "Perfeito equilíbrio entre autonomia e tecnologia térmica",
+    "price": 4480,
+    "old_price": 5200,
+    "discount": 14,
+    "rating": 4.8,
+    "brand": "Doogee",
+    "features": [
+      "Câmera Térmica + Bateria 10.800 mAh"
+    ],
+    "image": "/images/doogee-v31-gt.webp"
+  },
+  {
+    "id": "agm-glory-g1s",
+    "name": "AGM Glory G1S",
+    "category": "Visão Noturna Extrema",
+    "description": "Veja no escuro total com tecnologia militar",
+    "price": 4900,
+    "old_price": 5700,
+    "discount": 14,
+    "rating": 4.8,
+    "brand": "AGM",
+    "features": [
+      "Câmera Térmica + Visão Noturna 20MP"
+    ],
+    "image": "/images/agm-glory-g1s.webp"
+  },
+  {
+    "id": "unihertz-tank-2",
+    "name": "Unihertz Tank 2",
+    "category": "Cinema Portátil",
+    "description": "O único smartphone com projetor de cinema integrado",
+    "price": 5040,
+    "old_price": 5800,
+    "discount": 13,
+    "rating": 4.8,
+    "brand": "Unihertz",
+    "features": [
+      "Projetor a Laser DLP integrado"
+    ],
+    "image": "/images/unihertz-tank-2.webp"
+  },
+  {
+    "id": "fossibot-f102",
+    "name": "Fossibot F102",
+    "category": "Super Lanterna",
+    "description": "A lanterna mais potente já integrada em um smartphone",
+    "price": 4760,
+    "old_price": 5500,
+    "discount": 13,
+    "rating": 4.8,
+    "brand": "Fossibot",
+    "features": [
+      "Luz de acampamento de 1300 lumens"
+    ],
+    "image": "/images/fossibot-f102.webp"
+  },
+  {
+    "id": "motorola-defy-2",
+    "name": "Motorola Defy 2",
+    "category": "Comunicação Satélite",
+    "description": "Conectividade onde nenhum outro celular consegue",
+    "price": 6300,
+    "old_price": 7200,
+    "discount": 13,
+    "rating": 4.8,
+    "brand": "Motorola",
+    "features": [
+      "Comunicação bidirecional via satélite"
+    ],
+    "image": "/images/motorola-defy-2.webp"
+  },
+  {
+    "id": "oukitel-wp30-pro",
+    "name": "Oukitel WP30 Pro",
+    "category": "Carregamento Extremo",
+    "description": "Carregamento super-rápido com autonomia gigante",
+    "price": 5180,
+    "old_price": 6000,
+    "discount": 14,
+    "rating": 4.8,
+    "brand": "Oukitel",
+    "features": [
+      "Carregamento 120W + Bateria 11.000 mAh"
+    ],
+    "image": "/images/oukitel-wp30-pro.webp"
+  },
+  {
+    "id": "cubot-kingkong-star",
+    "name": "Cubot KingKong Star",
+    "category": "Design Diferenciado",
+    "description": "Design inovador com tela traseira funcional",
+    "price": 4060,
+    "old_price": 4700,
+    "discount": 14,
+    "rating": 4.8,
+    "brand": "Cubot",
+    "features": [
+      "Tela traseira + Design único"
+    ],
+    "image": "/images/cubot-kingkong-star.webp"
+  },
+  {
+    "id": "realme-c61",
+    "name": "Realme C61",
+    "category": "Custo-Benefício",
+    "description": "Smartphone robusto com excelente custo-benefício",
+    "price": 1323,
+    "rating": 4.8,
+    "brand": "Realme",
+    "features": [
+      "Resistência e bom desempenho"
+    ],
+    "image": "/images/realme-c61.webp"
+  },
+  {
+    "id": "redmi-note-14",
+    "name": "Redmi Note 14",
+    "category": "Custo-Benefício",
+    "description": "Smartphone robusto com excelente custo-benefício",
+    "price": 1540,
+    "rating": 4.8,
+    "brand": "Redmi",
+    "features": [
+      "Resistência e bom desempenho"
+    ],
+    "image": "/images/redmi-note-14.webp"
+  },
+  {
+    "id": "realme-c75",
+    "name": "Realme C75",
+    "category": "Custo-Benefício",
+    "description": "Smartphone robusto com excelente custo-benefício",
+    "price": 1818.6,
+    "rating": 4.8,
+    "brand": "Realme",
+    "features": [
+      "Resistência e bom desempenho"
+    ],
+    "image": "/images/realme-c75.webp"
+  },
+  {
+    "id": "honor-x7c",
+    "name": "Honor X7c",
+    "category": "Custo-Benefício",
+    "description": "Smartphone robusto com excelente custo-benefício",
+    "price": 2016,
+    "rating": 4.8,
+    "brand": "Honor",
+    "features": [
+      "Resistência e bom desempenho"
+    ],
+    "image": "/images/honor-x7c.webp"
+  },
+  {
+    "id": "moto-g75",
+    "name": "Moto G75",
+    "category": "Custo-Benefício",
+    "description": "Smartphone robusto com excelente custo-benefício",
+    "price": 2266.6,
+    "rating": 4.8,
+    "brand": "Moto",
+    "features": [
+      "Resistência e bom desempenho"
+    ],
+    "image": "/images/moto-g75.webp"
+  },
+  {
+    "id": "motorola-edge-50-neo",
+    "name": "Motorola Edge 50 Neo",
+    "category": "Custo-Benefício",
+    "description": "Smartphone robusto com excelente custo-benefício",
+    "price": 2784.6,
+    "rating": 4.8,
+    "brand": "Motorola",
+    "features": [
+      "Resistência e bom desempenho"
+    ],
+    "image": "/images/motorola-edge-50-neo.webp"
+  },
+  {
+    "id": "ulefone-armor-24",
+    "name": "Ulefone Armor 24",
+    "category": "Bateria e Visão Noturna",
+    "description": "Smartphone robusto com lanterna gigante",
+    "price": 2380,
+    "rating": 4.8,
+    "brand": "Ulefone",
+    "features": [
+      "Lanterna Gigante"
+    ],
+    "image": "/images/ulefone-armor-24.webp"
+  },
+  {
+    "id": "doogee-s110",
+    "name": "Doogee S110",
+    "category": "Design e Visão Noturna",
+    "description": "Smartphone robusto com tela traseira inovadora",
+    "price": 2240,
+    "rating": 4.8,
+    "brand": "Doogee",
+    "features": [
+      "Tela Traseira Inovadora"
+    ],
+    "image": "/images/doogee-s110.webp"
+  },
+  {
+    "id": "blackview-bv8900",
+    "name": "Blackview BV8900",
+    "category": "Câmera Térmica",
+    "description": "Smartphone robusto com câmera térmica flir®",
+    "price": 2520,
+    "rating": 4.8,
+    "brand": "Blackview",
+    "features": [
+      "Câmera Térmica FLIR®"
+    ],
+    "image": "/images/blackview-bv8900.webp"
+  },
+  {
+    "id": "oukitel-wp19",
+    "name": "Oukitel WP19",
+    "category": "Bateria Extrema",
+    "description": "Smartphone robusto com bateria absurda (21.000mah)",
+    "price": 2380,
+    "rating": 4.8,
+    "brand": "Oukitel",
+    "features": [
+      "Bateria Absurda (21.000mAh)"
+    ],
+    "image": "/images/oukitel-wp19.webp"
+  },
+  {
+    "id": "ulefone-armor-x13",
+    "name": "Ulefone Armor X13",
+    "category": "Custo-Benefício Compacto",
+    "description": "Smartphone robusto com custo-benefício extremo",
+    "price": 1400,
+    "rating": 4.8,
+    "brand": "Ulefone",
+    "features": [
+      "Custo-Benefício Extremo"
+    ],
+    "image": "/images/ulefone-armor-x13.webp"
+  },
+  {
+    "id": "doogee-s100-pro",
+    "name": "Doogee S100 Pro",
+    "category": "Aventura e Bateria",
+    "description": "Smartphone robusto com luz de camping potente",
+    "price": 2240,
+    "rating": 4.8,
+    "brand": "Doogee",
+    "features": [
+      "Luz de Camping Potente"
+    ],
+    "image": "/images/doogee-s100-pro.webp"
+  },
+  {
+    "id": "oukitel-wp22",
+    "name": "Oukitel WP22",
+    "category": "Áudio Potente",
+    "description": "Smartphone robusto com alto-falante gigante (125db)",
+    "price": 2100,
+    "rating": 4.8,
+    "brand": "Oukitel",
+    "features": [
+      "Alto-falante Gigante (125dB)"
+    ],
+    "image": "/images/oukitel-wp22.webp"
+  },
+  {
+    "id": "blackview-n6000",
+    "name": "Blackview N6000",
+    "category": "Ultra Compacto",
+    "description": "Smartphone robusto com ultra-compacto (tela de 4.3\")",
+    "price": 1820,
+    "rating": 4.8,
+    "brand": "Blackview",
+    "features": [
+      "Ultra-Compacto (Tela de 4.3\")"
+    ],
+    "image": "/images/blackview-n6000.webp"
+  },
+  {
+    "id": "ulefone-power-armor-19t",
+    "name": "Ulefone Power Armor 19T",
+    "category": "Câmera Térmica Avançada",
+    "description": "Smartphone robusto com câmera térmica flir®",
+    "price": 2660,
+    "rating": 4.8,
+    "brand": "Ulefone",
+    "features": [
+      "Câmera Térmica FLIR®"
+    ],
+    "image": "/images/ulefone-power-armor-19t.webp"
+  },
+  {
+    "id": "doogee-smini",
+    "name": "Doogee SMINI",
+    "category": "Mini e Portátil",
+    "description": "Smartphone robusto com o menor de todos",
+    "price": 1680,
+    "rating": 4.8,
+    "brand": "Doogee",
+    "features": [
+      "O Menor de Todos"
+    ],
+    "image": "/images/doogee-smini.webp"
+  }
+]
+

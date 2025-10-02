@@ -1,0 +1,96 @@
+{
+  "company": {
+    "name": "IndestruCell",
+    "tagline": "Smartphones Indestrutíveis",
+    "description": "Especialistas em smartphones indestrutíveis. Oferecemos os melhores celulares robustos do mercado com garantia de qualidade e preços competitivos.",
+    "contact": {
+      "email": "contato@indestrucell.com.br",
+      "phone": "(93) 99999-9999",
+      "address": "Santarém, PA"
+    },
+    "social": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    }
+  },
+  "hero": {
+    "badge": "🛡️ Smartphones com as melhores notas nos testes de resistência",
+    "title": "Celulares que Resistem ao Impossível",
+    "subtitle": "Descubra nossa curadoria exclusiva de smartphones robustos com tecnologias únicas: câmeras térmicas, visão noturna, comunicação via satélite e muito mais.",
+    "primaryButton": "Ver Produtos",
+    "secondaryButton": "Saiba Mais"
+  },
+  "features": [
+    {
+      "title": "Resistência Extrema",
+      "description": "Certificações IP68/IP69K e MIL-STD-810H garantem proteção total contra água, poeira e quedas.",
+      "icon": "Shield"
+    },
+    {
+      "title": "Bateria Gigante",
+      "description": "Baterias de até 22.000 mAh para dias de uso sem recarga, ideais para trabalho em campo.",
+      "icon": "Battery"
+    },
+    {
+      "title": "Tecnologia Avançada",
+      "description": "Câmeras térmicas, visão noturna e recursos únicos que nenhum smartphone comum possui.",
+      "icon": "Camera"
+    },
+    {
+      "title": "Conectividade Total",
+      "description": "Comunicação via satélite, walkie-talkie e 5G para estar conectado em qualquer lugar.",
+      "icon": "Satellite"
+    }
+  ],
+  "featuredProducts": [
+    {
+      "id": 1,
+      "name": "Ulefone Armor 26 Ultra",
+      "category": "Powerhouse Multimídia",
+      "price": 5370,
+      "originalPrice": 6200,
+      "discount": 13,
+      "rating": 4.8,
+      "feature": "Alto-falante 121dB + Walkie-Talkie",
+      "description": "O smartphone robusto mais potente com recursos únicos",
+      "image": "/api/placeholder/300/200"
+    },
+    {
+      "id": 2,
+      "name": "Blackview BL9000 Pro",
+      "category": "Câmera Térmica Profissional",
+      "price": 5530,
+      "originalPrice": 6400,
+      "discount": 14,
+      "rating": 4.8,
+      "feature": "Câmera Térmica FLIR® de alta resolução",
+      "description": "O smartphone robusto mais potente com recursos únicos",
+      "image": "/api/placeholder/300/200"
+    },
+    {
+      "id": 3,
+      "name": "Unihertz Tank 2",
+      "category": "Cinema Portátil",
+      "price": 5040,
+      "originalPrice": 5800,
+      "discount": 13,
+      "rating": 4.8,
+      "feature": "Projetor a Laser DLP integrado",
+      "description": "O smartphone robusto mais potente com recursos únicos",
+      "image": "/api/placeholder/300/200"
+    }
+  ],
+  "categories": [
+    "Câmera Térmica",
+    "Visão Noturna",
+    "Super Bateria",
+    "Comunicação Satélite"
+  ],
+  "cta": {
+    "title": "Pronto para o Indestrutível?",
+    "subtitle": "Explore nossa seleção completa e encontre o smartphone robusto perfeito para suas necessidades",
+    "buttonText": "Explorar Catálogo"
+  }
+}
+
